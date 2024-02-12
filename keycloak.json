@@ -1,0 +1,8 @@
+{
+    "realm": "master",
+    "auth-server-url": "http://localhost:8085/",
+    "ssl-required": "external",
+    "resource": "jsLogin",
+    "public-client": true,
+    "confidential-port": 0
+  }
