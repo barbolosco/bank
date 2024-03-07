@@ -1,6 +1,6 @@
 # bank
 A website of a fake bank created for exercise and fun and test
-- Apache lounge
+- Apache lounge, nginx
 - html, css, js, php
 - keycloak
 - mysql
